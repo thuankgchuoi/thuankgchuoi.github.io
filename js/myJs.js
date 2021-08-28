@@ -6,11 +6,11 @@ const textConfig = {
   text5: "Em mơ à???",
   text6: "Yêu ơi là yêu <3",
   text7: "lí do Chị Uyên thích em đi :vvvv",
-  text8: "Gửi cho Anh <3",
+  text8: "Gửi cho Thuận <3",
   text9: "Vì CHỊ THÍCH EM vlllll",
   text10: "Em biết mà ^^ Yêu chị UYÊN 300.000",
   text11:
-    "Còn giờ thì ngần ngại gì nữa mà ko đến với sau :V rồi sau này ta cưới nhau",
+    "Còn giờ thì ngần ngại gì nữa mà ko đến với nhau :V rồi sau này ta cưới nhau",
   text12: "Okii lunn <3",
 };
 
