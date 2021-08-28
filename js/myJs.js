@@ -4,7 +4,7 @@ const textConfig = {
   text3: "Chị Uyên thích em có phải không nào ._.",
   text4: "Nếu Chị Uyên ko trả lời mà thoát ra tức là muốn làm vợ em rùi đó nha :v  :)))))",
   text5: "Em mơ à???",
-  text6: "Yêu ơi là yêu <3",
+  text6: "Thích ơi là Thích <3",
   text7: "lí do Chị Uyên thích em đi :vvvv",
   text8: "Gửi cho Thuận <3",
   text9: "Vì CHỊ THÍCH EM vlllll",
