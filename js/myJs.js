@@ -4,7 +4,7 @@ const textConfig = {
   text3: "Cô Tâm có thương Anh không nào ._.",
   text4: "Nếu Cô Tâm ko trả lời mà thoát ra tức là muốn làm Vợ Anh rùi đó nha :v  :)))))",
   text5: "Anh mơ à???",
-  text6: "Thích ơi là Thích <3",
+  text6: "Thương lắm á <3",
   text7: "lí do Cô Tâm Thương anh đi :vvvv",
   text8: "Gửi cho Thựn <3",
   text9: "Vì em thích anh vlllll",
